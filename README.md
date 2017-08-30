@@ -1,2 +1,4 @@
 # Hello-World
-first usage of GitHub
+
+2017.8.30 first usage of GitHub
+
