@@ -1,4 +1,2 @@
-# Hello-World
-
-2017.8.30 first usage of GitHub
-
+# 读书笔记
+1. [《第一本哲学漫画书：尼采的哲学思想》 —— 吴瑞君]()
