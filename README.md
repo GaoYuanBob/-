@@ -3,4 +3,4 @@
 2. [《人生十二法则》](https://github.com/GaoYuanBob/Reading-Notes/blob/master/%E3%80%8A%E4%BA%BA%E7%94%9F%E5%8D%81%E4%BA%8C%E6%B3%95%E5%88%99%E3%80%8B.md) —— Jordan B. Peterson
 
 ## 各种效应和定律
-1. [Effects and laws]()
+1. [Effects and laws](https://github.com/GaoYuanBob/Reading-Notes/blob/master/Effects%20and%20laws.md)
