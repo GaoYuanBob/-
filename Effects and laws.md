@@ -8,4 +8,11 @@
 ### 3. 破窗效应（Broken windows theory）
 破窗效应是犯罪学的一个理论，该理论由詹姆士·威尔逊（James Q. Wilson）及乔治·凯林（George L. Kelling）提出，并刊于《The Atlantic Monthly》1982年3月版的一篇题为《Broken Windows》的文章。
 此理论认为环境中的不良现象如果被放任存在，会诱使人们仿效，甚至变本加厉。一幢有少许破窗的建筑为例，如果那些窗不被修理好，可能将会有破坏者破坏更多的窗户。最终他们甚至会闯入建筑内，如果发现无人居住，也许就在那里定居或者纵火。一面墙，如果出现一些涂鸦没有被清洗掉，很快的，墙上就布满了乱七八糟、不堪入目的东西；一条人行道有些许纸屑，不久后就会有更多垃圾，最终人们会视若理所当然地将垃圾顺手丢弃在地上。这个现象，就是犯罪心理学中的破窗效应。
-### 4 
+### 4. 奥卡姆剃刀定律（Occam's Razor）
+奥卡姆剃刀定律（Occam's Razor），它是由14世纪英格兰的逻辑学家、圣方济各会修士奥卡姆的威廉（William of Occam，约1285年至1349年）提出。这个原理称为“如无必要，勿增实体”，即“简单有效原理”。正如他在《箴言书注》2卷15题说“切勿浪费较多东西去做，用较少的东西，同样可以做好的事情。”
+这个原理称为“如无必要，勿增实体” （Entities should not be multiplied unnecessarily），有时为了显示其权威性，人们也使用它原始的拉丁文形式：
+Numquam ponenda est pluralitas sine necessitate.（避重趋轻）\
+Pluralitas non est ponenda sine necessitate.（避繁逐简）\
+Frustra fit per plura quod potest fieri per pauciora.（以简御繁）\
+Entia non sunt multiplicanda praeter necessitatem.（避虚就实）
+### 5. 
